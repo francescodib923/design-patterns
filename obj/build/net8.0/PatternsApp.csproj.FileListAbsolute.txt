@@ -1,0 +1,15 @@
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\bin\build\net8.0\PatternsApp.exe
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\bin\build\net8.0\PatternsApp.deps.json
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\bin\build\net8.0\PatternsApp.runtimeconfig.json
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\bin\build\net8.0\PatternsApp.dll
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\bin\build\net8.0\PatternsApp.pdb
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.AssemblyInfoInputs.cache
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.AssemblyInfo.cs
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.csproj.CoreCompileInputs.cache
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.sourcelink.json
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.dll
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\refint\PatternsApp.dll
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.pdb
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\PatternsApp.genruntimeconfig.cache
+C:\Users\FrancescoDiBiase\source\repos\AppStudio\PatternsApp\obj\build\net8.0\ref\PatternsApp.dll
