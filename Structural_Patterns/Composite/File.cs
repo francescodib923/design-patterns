@@ -11,7 +11,7 @@ namespace PatternsApp.Structural_Patterns.Composite
         }
         public void Open()
         {
-            System.Console.WriteLine(Content);
+            Console.WriteLine($"Ho aperto il file con questo nome: {this.Name} con questo contenuto:\n {Content}");
         }
 
         public void Write(string content, bool concat = true)

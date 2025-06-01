@@ -13,16 +13,10 @@ namespace PatternsApp.Structural_Patterns.Composite
         }
         public void Open()
         {
+            Console.WriteLine($"Ho aperto la cartella chiamata {this.Name}");
             Content?.ForEach((c) =>
             {
-                if (c.GetType() == typeof(Folder))
-                {
-                    System.Console.WriteLine($"{(c as Folder)?.Name} - {nameof(Folder)}");
-                }
-                else if (c.GetType() == typeof(File))
-                {
-                    System.Console.WriteLine($"{(c as File)?.Name} - {nameof(File)}");
-                }
+                c.Open();
             });
         }
 
