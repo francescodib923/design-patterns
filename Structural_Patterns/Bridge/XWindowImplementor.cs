@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PatternsApp.Structural_Patterns.Bridge
+﻿namespace PatternsApp.Structural_Patterns.Bridge
 {
-    internal class XWindowImp : IWindowImp
+    internal class XWindowImplementor : IWindowImplementor
     {
         public void DevDrawLine()
         {
@@ -18,7 +12,7 @@ namespace PatternsApp.Structural_Patterns.Bridge
             XDrawText();
         }
 
-        public XWindowImp() { }
+        public XWindowImplementor() { }
 
         public void XDrawLine() { }
         public void XDrawText() { }
