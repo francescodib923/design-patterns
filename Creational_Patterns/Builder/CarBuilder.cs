@@ -1,19 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Drawing;
 
 namespace PatternsApp.Creational_Patterns.Builder
 {
+    /// <summary>
+    /// -- ENGLISH
+    /// Separate the construction of a complex object from it's representation
+    /// so that the same construction process can create different representations.
+    /// -- ITALIANO
+    /// Separa la costruzione di un oggetto complesso dalla sua rappresentazione
+    /// così che lo stesso procedimento di costruzione può creare diverse rappresentazioni.
+    /// </summary>
     internal class CarBuilder<T> : ICarBuilder<T> where T : Car, new()
     {
         private T _Car;
 
         public CarBuilder()
         {
-            Console.WriteLine("|___| BUILDER |___|");
             _Car = new T();
             Console.WriteLine($"It's been created a {_Car.GetType().Name} builder");
         }
@@ -26,7 +28,7 @@ namespace PatternsApp.Creational_Patterns.Builder
             _Car?.ChangePainting(color);
             return this;
         }
-        public CarBuilder<T> SetHorsePower(int hp) 
+        public CarBuilder<T> SetHorsePower(int hp)
         {
             _Car?.ChangeHorsePower(hp);
             return this;

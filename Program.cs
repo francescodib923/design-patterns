@@ -1,4 +1,5 @@
 ﻿using PatternsApp.Creational_Patterns.Abstract_Factory;
+using PatternsApp.Creational_Patterns.Factory_Method;
 using PatternsApp.Structural_Patterns.Composite;
 
 namespace PatternsApp
@@ -9,6 +10,9 @@ namespace PatternsApp
         {
             AbstractFactoryClient client = new AbstractFactoryClient(new MotifWidgetFactory());
             client.Run();
+
+            MyApplication app = new MyApplication();
+            app.NewDocument("bomba");
             // Folder folder1 = new Folder("Cartella 1");
             // folder1.Content?.AddRange(new List<IFileSystem>
             // {
