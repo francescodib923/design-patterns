@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PatternsApp.Creational_Patterns.Prototype
+﻿namespace PatternsApp.Creational_Patterns.Prototype
 {
     internal class Circle : Shape
     {
-        public Circle(string id) 
+        public Circle(string id)
         {
             base.Type = "Circle";
             base.Id = id;
