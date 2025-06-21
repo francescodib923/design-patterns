@@ -1,6 +1,6 @@
 using System.Collections;
 
-namespace PatternsApp.Behavioral_Patterns.Iterator
+namespace DesignPatterns.Behavioural_Patterns.Iterator
 {
     public interface IIterator<out T>
     {

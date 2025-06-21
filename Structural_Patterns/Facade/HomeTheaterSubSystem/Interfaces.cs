@@ -1,6 +1,6 @@
-﻿using PatternsApp.Structural_Patterns.Facade.Accessories;
+﻿using DesignPatterns.Structural_Patterns.Facade.Accessories;
 
-namespace PatternsApp.Structural_Patterns.Facade.HomeTheaterSubSystem
+namespace DesignPatterns.Structural_Patterns.Facade.HomeTheaterSubSystem
 {
     internal interface IDevice
     {

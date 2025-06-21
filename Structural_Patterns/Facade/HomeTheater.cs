@@ -1,7 +1,7 @@
-﻿using PatternsApp.Structural_Patterns.Facade.HomeTheaterSubSystem;
+﻿using DesignPatterns.Structural_Patterns.Facade.HomeTheaterSubSystem;
 using System.Runtime.CompilerServices;
 
-namespace PatternsApp.Structural_Patterns.Facade
+namespace DesignPatterns.Structural_Patterns.Facade
 {
     internal class HomeTheater : IHomeTheater<HomeTheater>
     {

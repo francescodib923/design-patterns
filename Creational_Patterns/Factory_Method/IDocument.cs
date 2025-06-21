@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Creational_Patterns.Factory_Method
+﻿namespace DesignPatterns.Creational_Patterns.Factory_Method
 {
     public interface IDocument
     {

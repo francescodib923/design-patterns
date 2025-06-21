@@ -1,6 +1,6 @@
-﻿using PatternsApp.Structural_Patterns.Facade.HomeTheaterSubSystem;
+﻿using DesignPatterns.Structural_Patterns.Facade.HomeTheaterSubSystem;
 
-namespace PatternsApp.Structural_Patterns.Facade
+namespace DesignPatterns.Structural_Patterns.Facade
 {
     internal interface IHomeTheater<T> where T : IHomeTheater<T>
     {

@@ -6,7 +6,7 @@
     /// Converte l'interfaccia di una classe in un'altra interfaccia che il client si aspetta. 
     /// L'adapter fa collaborare classi che altrimenti non potrebbero.
     /// </summary>
-namespace PatternsApp.Structural_Patterns.Adapter
+namespace DesignPatterns.Structural_Patterns.Adapter
 {
     internal class SocketAdapter : IVoltage
     {

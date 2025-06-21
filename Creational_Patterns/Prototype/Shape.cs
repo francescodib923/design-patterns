@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Creational_Patterns.Prototype
+﻿namespace DesignPatterns.Creational_Patterns.Prototype
 {
     /// <summary>
     /// -- ENGLISH

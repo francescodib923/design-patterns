@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Structural_Patterns.Decorator
+﻿namespace DesignPatterns.Structural_Patterns.Decorator
 {
     internal abstract class AbstractDecorator : IVisualComponent
     {

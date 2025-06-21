@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Creational_Patterns.Singleton
+﻿namespace DesignPatterns.Creational_Patterns.Singleton
 {
     /// <summary>
     /// -- ENGLISH

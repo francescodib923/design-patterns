@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Behavioral_Patterns.Interpreter
+﻿namespace DesignPatterns.Behavioural_Patterns.Interpreter
 {
     /// <summary>
     /// -- ENGLISH

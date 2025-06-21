@@ -1,4 +1,4 @@
-namespace PatternsApp.Creational_Patterns.Abstract_Factory
+namespace DesignPatterns.Creational_Patterns.Abstract_Factory
 {
     public class PresentationManagerWindow : Window
     {

@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Structural_Patterns.Adapter
+﻿namespace DesignPatterns.Structural_Patterns.Adapter
 {
     internal class Device
     {

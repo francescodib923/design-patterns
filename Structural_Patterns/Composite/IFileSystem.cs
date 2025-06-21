@@ -1,4 +1,4 @@
-namespace PatternsApp.Structural_Patterns.Composite
+namespace DesignPatterns.Structural_Patterns.Composite
 {
     public interface IFileSystem
     {

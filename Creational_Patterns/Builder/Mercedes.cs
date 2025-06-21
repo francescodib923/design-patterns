@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace PatternsApp.Creational_Patterns.Builder
+namespace DesignPatterns.Creational_Patterns.Builder
 {
     internal class Mercedes : Car
     {

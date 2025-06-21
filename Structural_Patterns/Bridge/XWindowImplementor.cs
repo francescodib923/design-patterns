@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Structural_Patterns.Bridge
+﻿namespace DesignPatterns.Structural_Patterns.Bridge
 {
     internal class XWindowImplementor : IWindowImplementor
     {

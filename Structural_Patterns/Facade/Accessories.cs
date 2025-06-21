@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Structural_Patterns.Facade.Accessories
+﻿namespace DesignPatterns.Structural_Patterns.Facade.Accessories
 {
     public interface IDisk
     {

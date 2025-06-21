@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Behavioral_Patterns.Command
+﻿namespace DesignPatterns.Behavioural_Patterns.Command
 {
     /// <summary>
     /// Partecipant for Command Pattern

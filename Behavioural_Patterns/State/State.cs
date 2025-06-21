@@ -1,6 +1,6 @@
 using AppStudio.PatternsApp.Utility;
 
-namespace PatternsApp.Behavioral_Patterns.State
+namespace DesignPatterns.Behavioural_Patterns.State
 {
     /// <summary>
     /// -- ENGLISH

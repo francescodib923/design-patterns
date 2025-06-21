@@ -1,6 +1,6 @@
 using AppStudio.PatternsApp.Utility;
 
-namespace PatternsApp.Behavioral_Patterns.Chain_of_responsibility
+namespace DesignPatterns.Behavioural_Patterns.Chain_of_responsibility
 {
     /// <summary>
     /// -- ENGLISH

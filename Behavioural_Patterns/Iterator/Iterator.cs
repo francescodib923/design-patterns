@@ -1,4 +1,4 @@
-namespace PatternsApp.Behavioral_Patterns.Iterator
+namespace DesignPatterns.Behavioural_Patterns.Iterator
 {
     /// <summary>
     /// -- ENGLISH

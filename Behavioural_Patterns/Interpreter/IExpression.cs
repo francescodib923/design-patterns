@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PatternsApp.Behavioral_Patterns.Interpreter
+namespace DesignPatterns.Behavioural_Patterns.Interpreter
 {
     public interface IExpression<T>
     {

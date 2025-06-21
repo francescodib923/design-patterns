@@ -1,8 +1,8 @@
-﻿using PatternsApp.Creational_Patterns.Abstract_Factory;
-using PatternsApp.Creational_Patterns.Factory_Method;
-using PatternsApp.Structural_Patterns.Composite;
+﻿using DesignPatterns.Creational_Patterns.Abstract_Factory;
+using DesignPatterns.Creational_Patterns.Factory_Method;
+using DesignPatterns.Structural_Patterns.Composite;
 
-namespace PatternsApp
+namespace DesignPatterns
 {
     internal class Program
     {

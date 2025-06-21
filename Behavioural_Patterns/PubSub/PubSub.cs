@@ -1,4 +1,4 @@
-﻿namespace PatternsApp.Behavioral_Patterns.PubSub
+﻿namespace DesignPatterns.Behavioural_Patterns.PubSub
 {
     public interface ISubscriber<in T>
     {
